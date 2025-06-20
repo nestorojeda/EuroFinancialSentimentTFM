@@ -1,0 +1,10 @@
+.venv
+wandb
+.DS_Store
+__pycache__
+*.pyc
+runs
+*/*.env
+*.png
+.vscode
+cache
